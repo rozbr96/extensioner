@@ -1,0 +1,19 @@
+{
+  "name": "extensioner",
+  "version": "1.0.0",
+  "description": "Simple tool to rename files by adding the missing extensions (if any) to them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rozbr96/extensioner.git"
+  },
+  "author": "Rosemilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rozbr96/extensioner/issues"
+  },
+  "homepage": "https://github.com/rozbr96/extensioner#readme"
+}
