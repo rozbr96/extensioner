@@ -4,7 +4,8 @@
   "description": "Simple tool to rename files by adding the missing extensions (if any) to them",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon --ext mjs index.mjs"
   },
   "repository": {
     "type": "git",
